@@ -1,0 +1,6 @@
+{0} hugged {1}!
+False
+gem hug [recipient]
+0
+https://i.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.webp
+https://i.giphy.com/media/17mNCcKU1mJlrbXodo/giphy.webp

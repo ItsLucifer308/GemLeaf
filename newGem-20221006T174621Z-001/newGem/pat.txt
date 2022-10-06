@@ -1,0 +1,6 @@
+{0} patted {1} on the head!
+False
+gem pat [recipient]
+0
+https://i.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.webp
+https://media.tenor.com/Tyj7kRcilx8AAAAd/spin-fish.gif
